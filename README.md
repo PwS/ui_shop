@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Preview
+|<img src="https://raw.githubusercontent.com/PwS/ui_shop/master/UI.PNG" alt="ListSD" width="300px" height="500px" />|<img src="https://raw.githubusercontent.com/PwS/ui_shop/master/UI%202.PNG" alt="ListSMP" width="300px" height="500px" />
+|:---:|:---:|
+|UI 1|UI 2
